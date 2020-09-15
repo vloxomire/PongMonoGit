@@ -174,19 +174,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vloxo\\.nuget\\packages\\": {}
+    "C:\\Users\\Jin-Gitaxias\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\0-Cursos\\C#\\PongMonoG\\PongMonoG.csproj",
+      "projectUniqueName": "C:\\0-Cursos\\C#\\PongMonoGit\\PongMonoG\\PongMonoG.csproj",
       "projectName": "PongMonoG",
-      "projectPath": "C:\\0-Cursos\\C#\\PongMonoG\\PongMonoG.csproj",
-      "packagesPath": "C:\\Users\\vloxo\\.nuget\\packages\\",
-      "outputPath": "C:\\0-Cursos\\C#\\PongMonoG\\obj\\",
+      "projectPath": "C:\\0-Cursos\\C#\\PongMonoGit\\PongMonoG\\PongMonoG.csproj",
+      "packagesPath": "C:\\Users\\Jin-Gitaxias\\.nuget\\packages\\",
+      "outputPath": "C:\\0-Cursos\\C#\\PongMonoGit\\PongMonoG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vloxo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jin-Gitaxias\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
